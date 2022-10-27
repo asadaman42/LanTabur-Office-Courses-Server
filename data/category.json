@@ -4,48 +4,48 @@
         "categoryName": "Microsoft Word",
         "description": "Microsoft Word is a word processing software developed by Microsoft. It was first released on October 25, 1983, under the name Multi-Tool Word for Xenix systems.",
         "price": "$200",
-        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg"
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png"
     },
     {
         "id": "2",
         "categoryName": "Microsoft Excel",
         "description": "Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation or computation capabilities, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. Excel forms part of the Microsoft Office suite of software.",
-        "price": "$200",
-        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg"
+        "price": "$250",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"
     },
     {
         "id": "3",
         "categoryName": "Microsoft PowerPoint",
         "description": "Microsoft PowerPoint is a presentation program, created by Robert Gaskins and Dennis Austin at a software company named Forethought, Inc. It was released on April 20, 1987, initially for Macintosh computers only. Microsoft acquired PowerPoint for about $14 million three months after it appeared.",
-        "price": "$200",
-        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg"
+        "price": "$220",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/1200px-Microsoft_PowerPoint_2013-2019_logo.svg.png"
     },
     {
         "id": "4",
         "categoryName": "Microsoft Outlook",
         "description": "Microsoft Outlook is a personal information manager software system from Microsoft, available as a part of the Microsoft Office suite. Though primarily an email client, Outlook also includes such functions as calendaring, task managing, contact managing, note-taking, journal logging and web browsing.",
-        "price": "$200",
-        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg"
+        "price": "$70",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png"
     },
     {
         "id": "5",
         "categoryName": "Microsoft OneNote", 
         "description": "Microsoft OneNote is a note-taking software developed by Microsoft. It is available as part of the Microsoft Office suite and since 2014 has been free on all platforms outside the suite. OneNote is designed for free-form information gathering and multi-user collaboration.",       
-        "price": "$200",
-        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg"
+        "price": "$50",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg.png"
     },
     {
         "id": "6",
         "categoryName": "Microsoft Publisher",
         "description": "Microsoft Publisher is a desktop publishing application from Microsoft, differing from Microsoft Word in that the emphasis is placed on page layout and graphic design rather than text composition and proofreading.",        
-        "price": "$200",
-        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg"
+        "price": "$60",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Microsoft_Office_Publisher_%282019-present%29.svg/1200px-Microsoft_Office_Publisher_%282019-present%29.svg.png"
     },
     {
         "id": "7",
         "categoryName": "Microsoft Access",
         "description": "Microsoft Access is a database management system from Microsoft that combines the relational Access Database Engine with a graphical user interface and software-development tools. It is a member of the Microsoft 365 suite of applications, included in the Professional and higher editions or sold separately.",
-        "price": "$200",
+        "price": "$210",
         "imgURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg"
     }
 
