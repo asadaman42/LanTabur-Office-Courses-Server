@@ -29,6 +29,13 @@
         "description": "Microsoft OneNote is a note-taking software developed by Microsoft. It is available as part of the Microsoft Office suite and since 2014 has been free on all platforms outside the suite. OneNote is designed for free-form information gathering and multi-user collaboration.",       
         "price": "$200"
     },
+    {
+        "id": "6",
+        "categoryName": "Microsoft Publisher",
+        "description": "Microsoft Publisher is a desktop publishing application from Microsoft, differing from Microsoft Word in that the emphasis is placed on page layout and graphic design rather than text composition and proofreading.",        
+        "price": "$200"
+    },
+
 
 
 
