@@ -35,6 +35,13 @@
         "description": "Microsoft Publisher is a desktop publishing application from Microsoft, differing from Microsoft Word in that the emphasis is placed on page layout and graphic design rather than text composition and proofreading.",        
         "price": "$200"
     },
+    {
+        "id": "7",
+        "categoryName": "Microsoft Access",
+        "description": "Microsoft Access is a database management system from Microsoft that combines the relational Access Database Engine with a graphical user interface and software-development tools. It is a member of the Microsoft 365 suite of applications, included in the Professional and higher editions or sold separately.",
+        "price": "$200"
+    }
+
 
 
 
