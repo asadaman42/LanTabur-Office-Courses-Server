@@ -16,7 +16,21 @@
         "categoryName": "Microsoft PowerPoint",
         "description": "Microsoft PowerPoint is a presentation program, created by Robert Gaskins and Dennis Austin at a software company named Forethought, Inc. It was released on April 20, 1987, initially for Macintosh computers only. Microsoft acquired PowerPoint for about $14 million three months after it appeared.",
         "price": "$200"
-    }
+    },
+    {
+        "id": "4",
+        "categoryName": "Microsoft Outlook",
+        "description": "Microsoft Outlook is a personal information manager software system from Microsoft, available as a part of the Microsoft Office suite. Though primarily an email client, Outlook also includes such functions as calendaring, task managing, contact managing, note-taking, journal logging and web browsing.",
+        "price": "$200"
+    },
+    {
+        "id": "5",
+        "categoryName": "Microsoft OneNote", 
+        "description": "Microsoft OneNote is a note-taking software developed by Microsoft. It is available as part of the Microsoft Office suite and since 2014 has been free on all platforms outside the suite. OneNote is designed for free-form information gathering and multi-user collaboration.",       
+        "price": "$200"
+    },
+
+
 
 
 ]
