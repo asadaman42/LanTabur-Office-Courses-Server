@@ -6,7 +6,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send('server is running');
+    res.send('seesrver is running');
 });
 
 app.listen(port, ()=>{

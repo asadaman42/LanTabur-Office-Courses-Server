@@ -1,18 +1,8 @@
 [
     {
         "id": "1",
-        "categoryName": "IELTS"        
-    },
-    {
-        "id": "2",
-        "categoryName": "Spoken"        
-    },
-    {
-        "id": "3",
-        "categoryName": "Grammar"        
-    },
-    {
-        "id": "4",
-        "categoryName": "Writting"        
+        "categoryName": "Microsoft Word",
+        "description": "Microsoft Word is a word processing software developed by Microsoft. It was first released on October 25, 1983, under the name Multi-Tool Word for Xenix systems.",
+        "price": "$200"
     }
 ]
