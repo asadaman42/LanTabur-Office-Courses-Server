@@ -4,5 +4,12 @@
         "categoryName": "Microsoft Word",
         "description": "Microsoft Word is a word processing software developed by Microsoft. It was first released on October 25, 1983, under the name Multi-Tool Word for Xenix systems.",
         "price": "$200"
+    },
+    {
+        "id": "2",
+        "categoryName": "Microsoft Excel",
+        "description": "Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation or computation capabilities, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. Excel forms part of the Microsoft Office suite of software.",
+        "price": "$200"
     }
+
 ]
