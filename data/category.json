@@ -10,6 +10,13 @@
         "categoryName": "Microsoft Excel",
         "description": "Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation or computation capabilities, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. Excel forms part of the Microsoft Office suite of software.",
         "price": "$200"
+    },
+    {
+        "id": "3",
+        "categoryName": "Microsoft PowerPoint",
+        "description": "Microsoft PowerPoint is a presentation program, created by Robert Gaskins and Dennis Austin at a software company named Forethought, Inc. It was released on April 20, 1987, initially for Macintosh computers only. Microsoft acquired PowerPoint for about $14 million three months after it appeared.",
+        "price": "$200"
     }
+
 
 ]
