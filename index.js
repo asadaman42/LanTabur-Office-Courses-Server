@@ -8,7 +8,7 @@ app.use(cors());
 const category = require('./data/category.json');
 
 app.get('/', (req, res) => {
-    res.send('seeeerver is running');
+    res.send('lantabur Office course server is running');
 });
 
 app.get('/category', (req, res) => {
